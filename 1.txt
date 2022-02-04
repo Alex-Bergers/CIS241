@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 : of lines
 here
 they are
-=======
-: of lines
-here
-they are
->>>>>>> firstbranch
+
 
