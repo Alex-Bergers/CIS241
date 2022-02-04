@@ -1,4 +1,4 @@
-a couple of lines
+: of lines
 here
 they are
 
