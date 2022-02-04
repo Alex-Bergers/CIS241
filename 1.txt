@@ -1,2 +1,10 @@
-delete laets ta gsare
+<<<<<<< HEAD
+: of lines
+here
+they are
+=======
+: of lines
+here
+they are
+>>>>>>> firstbranch
 
